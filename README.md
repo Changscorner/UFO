@@ -33,12 +33,14 @@ You can search for UFO sighting by state as shown by the example below:
 <p align="center">
 	<img src="https://github.com/Changscorner/UFO/blob/main/static/images/state%20search.png">
 </p>
+
 #### Search by Country
 You can search for UFO sighting by country by following the example below:
 
 <p align="center">
 	<img src="https://github.com/Changscorner/UFO/blob/main/static/images/country%20search.png">
 </p>
+
 #### Search by Shape
 You can search for UFO sighting by light shape by following the example below:
 <p align="center">
