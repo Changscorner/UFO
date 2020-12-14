@@ -52,4 +52,5 @@ The way to solve both these issues is to:
 
 #### Improvements
 1.) One improvement to add is a clear filter function to erase any current existing filters on the dataset.
+
 2.) Another is to add a feedback response if the dropdown table functionality is not added to let the user know that they query that they have entered is not valid or returns no data.
